@@ -1,4 +1,4 @@
-print("----------------Bem vindo ao validador de CPF----------------\n")
+print("\n--------------Bem vindo ao validador de CPF--------------\n")
 
 while True:
   cpf = input("Entre com CPF com formato \"###.###.###-##\": ")

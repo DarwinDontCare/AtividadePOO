@@ -1,4 +1,6 @@
-n = int(input('digite um numero: '))
+print("\n--------------Bem vindo ao calculador de Fibonacci--------------\n")
+
+n = int(input('Digite o número de dígitos desejados da sequência de Fibonacci: '))
 
 lista = [0, 1]
 
